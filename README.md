@@ -1,2 +1,2 @@
 # treachQu
-This about personalised DS in c and cpp code 
+It's for DS in c and cpp code 
