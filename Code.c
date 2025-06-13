@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
- int x;
+ int h;
  int y;
  return 0;
 }
